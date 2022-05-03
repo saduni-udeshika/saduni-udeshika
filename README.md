@@ -6,3 +6,5 @@ Hi there 👋 I'm Saduni Udeshika
 - 📫 How to reach me: [Twitter - @saduniudeshikaa](https://twitter.com/saduniudeshikaa), 
 [LinkedIn - Saduni Udeshika](https://www.linkedin.com/)
 - 😄 Pronouns: She/Her
+
+https://github-readme-stats.vercel.app/api?username=saduni-udeshika&theme=radical
