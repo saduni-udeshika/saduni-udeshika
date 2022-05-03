@@ -7,4 +7,4 @@ Hi there 👋 I'm Saduni Udeshika
 [LinkedIn - Saduni Udeshika](https://www.linkedin.com/)
 - 😄 Pronouns: She/Her
 
-https://github-readme-stats.vercel.app/api?username=saduni-udeshika&theme=radical
+![enter image description here](https://github-readme-stats.vercel.app/api?username=saduni-udeshika&theme=radical)
