@@ -20,8 +20,4 @@ Hi there 👋 I'm Saduni Udeshika
   <br/>
 <br/>
 <br/>
-
-<a href="https://github.com/saduni-udeshika/github-readme-activity-graph"><img alt="Saduni Udeshika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saduni-udeshika&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
